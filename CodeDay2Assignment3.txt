@@ -1,0 +1,8 @@
+#input from the user
+sString=input("Enter the value to reverse")
+
+print("Before reverse the String",sString)
+
+rString=sString[::-1]
+
+print("Aftre the reverse of the string",rString)
